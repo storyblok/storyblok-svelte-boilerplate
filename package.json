@@ -14,13 +14,13 @@
   "dependencies": {
     "compression": "^1.7.1",
     "polka": "0.5.2",
-    "sirv": "^0.4.0",
-    "storyblok-js-client": "^2.4.1"
+    "sirv": "^1.0.1",
+    "storyblok-js-client": "^2.5.1"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
-    "sapper": "^0.27.12",
-    "svelte": "^3.22.2",
+    "sapper": "^0.27.16",
+    "svelte": "^3.24.0",
     "svelte-loader": "^2.9.0",
     "webpack": "^4.43.0"
   }
