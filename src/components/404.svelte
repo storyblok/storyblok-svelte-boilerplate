@@ -2,4 +2,4 @@
   export let blok
 </script>
 
-<div>The component {block.component} has not been created yet.</div>
+<div>The component {blok.component} has not been created yet.</div>
