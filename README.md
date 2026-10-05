@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current Svelte + Storyblok starter, use [blueprint-core-svelte](https://github.com/storyblok/blueprint-core-svelte).
+
 # storyblok-svelte-boilerplate
 
 ## Usage
